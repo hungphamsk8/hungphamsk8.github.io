@@ -192,6 +192,10 @@ header{
 .phan-3{
     padding: 50px 0;
 }
+.tieu-de{
+    display: flex;
+    justify-content: center;
+}
 .open{
     color: rgb(255, 0, 0);
     font-size: 25px;
